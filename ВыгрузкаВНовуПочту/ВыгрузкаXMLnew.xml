@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<file>
+	<auth>ТестЗначение</auth>
+	<orderNew order_id="222" sender_company="333" sender_contact="222" sender_phone="333" sender_city_ref="444" sender_street_ref="222" sender_build_ref="333" rcpt_name="444" rcpt_contact="222" rcpt_phone_num="333" rcpt_city_ref="444" rcpt_street_ref="222" rcpt_build_ref="333" pack_type="444" payer="222" cost="444" weight="222" description="333">
+		<order_cont cont_description="444"/>
+	</orderNew>
+</file>

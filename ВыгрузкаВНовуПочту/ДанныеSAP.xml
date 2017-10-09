@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ns0:Payments xmlns:ns0="http://Tarkett.TEE.Mediation.Finance.Common.Messaging.schPayments">
+	<ns1:Envelope xmlns:ns1="http://BizTalkFactory.Core.Common.Messaging.Envelope/v1.0">
+		<Action>Action_0</Action>
+		<StartProcessingDate>1999-05-31T13:20:00.000-05:00</StartProcessingDate>
+		<BatchId>BatchId_0</BatchId>
+		<TechnicalId>TechnicalId_0</TechnicalId>
+		<FunctionalId>FunctionalId_0</FunctionalId>
+		<InputHalfFlow>InputHalfFlow_0</InputHalfFlow>
+		<OutputHalfFlow>OutputHalfFlow_0</OutputHalfFlow>
+	</ns1:Envelope>
+</ns0:Payments>
